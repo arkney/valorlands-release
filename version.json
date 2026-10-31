@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.1.0",
-    "latest":  "0.1.0",
-    "tag":  "v0.1.0",
-    "notes":  "Resmi logo, ikon ve açılış ekranı; markalı launcher",
-    "published":  "2026-10-31T00:46:41Z",
+    "version":  "0.2.0",
+    "latest":  "0.2.0",
+    "tag":  "v0.2.0",
+    "notes":  "Görevler ve günlük ödül, grup kurma, kozmetik mağaza ve Sezon Yolu, Demirci\u0027de +9 basma, Yetenek Tahtası, Hedefler, kahraman seçim ekranı, yeni animasyon ve efektler, sesler ve müzik, telefon düzeni",
+    "published":  "2026-10-31T19:49:52Z",
     "launcher":  {
-                     "version":  "0.1.0",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.1.0/win64-manifest-6bf686aa5fa3.json",
-                     "size":  70797,
-                     "sha256":  "6bf686aa5fa3d68b78d3bdb257126bdb322f16658328a6a8a5a23338f73c5c22",
-                     "signature":  "EGBlYh2O72Me29dM3I2jTgBWPAGKOMjBnnpFMPKqE98UPxMtokk6uYCN/MfiZSXniBeniLD8hjMg6K47sZqgQw=="
+                     "version":  "0.2.0",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.0/win64-manifest-88a8be7a57b1.json",
+                     "size":  72327,
+                     "sha256":  "88a8be7a57b160a98d12435af41ea81038a0ee1f8d69ac0a3de24f400afa69a9",
+                     "signature":  "Fa4rMRGoK41yb5R/XGNsP3qufOjdnlGgPeqOq34gJnf8Tk6+x/Zffsq5TpxZmotfD6QJRHrpqKsoUi/RvuXBqA=="
                  }
 }
