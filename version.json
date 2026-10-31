@@ -1,0 +1,15 @@
+{
+    "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
+    "version":  "0.1.0",
+    "latest":  "0.1.0",
+    "tag":  "v0.1.0",
+    "notes":  "İlk Windows yapısı: launcher kurulum testi",
+    "published":  "2026-10-31T00:23:24Z",
+    "launcher":  {
+                     "version":  "0.1.0",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.1.0/win64-manifest-01bd01140fa0.json",
+                     "size":  70100,
+                     "sha256":  "01bd01140fa088430601a2a4d7e3000f46506cd525b191bb5fd723b08cb8b16f",
+                     "signature":  "YllbVM2tFUSSFosBNbPElWKcy/7ELDmWC14sUATX+npKdfPrUO1wdzpoM39pH+KD9svmoDZjor9dXMHAuad08Q=="
+                 }
+}
