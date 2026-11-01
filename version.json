@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.2.1",
-    "latest":  "0.2.1",
-    "tag":  "v0.2.1",
-    "notes":  "Hesap sistemi (kayıt, giriş, misafir hesabını yükseltme), kahraman seçim ekranı yenilendi, kahramanlar silahlarını parmaklarıyla kavrıyor, Savaşçı\u0027ya kalkan",
-    "published":  "2026-10-31T23:31:26Z",
+    "version":  "0.2.2",
+    "latest":  "0.2.2",
+    "tag":  "v0.2.2",
+    "notes":  "Heroes hold their weapons properly, all 16 skill effects rebuilt and synced to the animation, Animation Studio groundwork",
+    "published":  "2026-11-01T14:28:55Z",
     "launcher":  {
-                     "version":  "0.2.1",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.1/win64-manifest-79eed316c0dc.json",
-                     "size":  72135,
-                     "sha256":  "79eed316c0dc350020f703963249da014e72ce20ff83be96df60e28f2c85fe5c",
-                     "signature":  "VZYmXiGY0XOgxt7hZEtCqKvHXUBM91+nFRVghvGkCLbLrgN5nLF07IgxlMYAPxd5SZQ/4loCbe4V4ngmxTXOIA=="
+                     "version":  "0.2.2",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.2/win64-manifest-464bd503aa07.json",
+                     "size":  72236,
+                     "sha256":  "464bd503aa07c927c358371766beaddd8e3dcd486d439348a44df521a5e76c1d",
+                     "signature":  "Z2usDaeMjyYpgN0jZMU49pTj822pa2YWoRdxMEXH4jWs3LozhosuzGBh5Spl5mq1bdrQxJAnu/nYqsjgmLnD+g=="
                  }
 }
