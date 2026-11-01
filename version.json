@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.2.2",
-    "latest":  "0.2.2",
-    "tag":  "v0.2.2",
-    "notes":  "Heroes hold their weapons properly, all 16 skill effects rebuilt and synced to the animation, Animation Studio groundwork",
-    "published":  "2026-11-01T14:28:55Z",
+    "version":  "0.2.3",
+    "latest":  "0.2.3",
+    "tag":  "v0.2.3",
+    "notes":  "Play online without any setup, new combat feel with combos and stamina, match stats, honor board, big map, guide, feedback menu, new PC login",
+    "published":  "2026-11-01T15:37:24Z",
     "launcher":  {
-                     "version":  "0.2.2",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.2/win64-manifest-464bd503aa07.json",
-                     "size":  72236,
-                     "sha256":  "464bd503aa07c927c358371766beaddd8e3dcd486d439348a44df521a5e76c1d",
-                     "signature":  "Z2usDaeMjyYpgN0jZMU49pTj822pa2YWoRdxMEXH4jWs3LozhosuzGBh5Spl5mq1bdrQxJAnu/nYqsjgmLnD+g=="
+                     "version":  "0.2.3",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.3/win64-manifest-dc9d02cd0978.json",
+                     "size":  71532,
+                     "sha256":  "dc9d02cd097834a53a9ae0bda537659f120c7f8ed02a601313a5a8a3aab06d72",
+                     "signature":  "WxYo5CCVA/FjupSCs/CwGddmm6Ik1qCuYfPLVnVF+Xrp+CFgo7cIgev/uqmOOtXbGTqkFepcgTSH4O2TV6OJZw=="
                  }
 }
