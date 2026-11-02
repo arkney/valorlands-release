@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.0",
-    "latest":  "0.3.0",
-    "tag":  "v0.3.0",
-    "notes":  "Valorlands 0.3.0: shared town, new characters and kits, quick matches with bots, rewards and titles.",
-    "published":  "2026-11-02T17:37:09Z",
+    "version":  "0.3.1",
+    "latest":  "0.3.1",
+    "tag":  "v0.3.1",
+    "notes":  "Chat fixes for phones and PC: one-line speech bubbles, keys stay in the chat box while typing.",
+    "published":  "2026-11-02T19:24:01Z",
     "launcher":  {
-                     "version":  "0.3.0",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.0/win64-manifest-99841c0b2097.json",
-                     "size":  73483,
-                     "sha256":  "99841c0b209749fc8cb448c31fb624978a908ce188c418f5ddc74d2f570a086a",
-                     "signature":  "sPEKwCe+EXkvB57E4bg6LF9JDi/b6N4k3BYddOeiAJbT2GaiNd7vV9epDV4H7JOp9t0rZEasAV3CHd/55te7hw=="
+                     "version":  "0.3.1",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.1/win64-manifest-a0459621e5d4.json",
+                     "size":  73278,
+                     "sha256":  "a0459621e5d4e775b421ab69d41f207168c9f6c0ddc9bfa2aa8afd13a1c84ac7",
+                     "signature":  "9fJctJPz1C2CC6fUtVJUPKgUFH4JVLUoMZXX2Z8zRT5QLmgZlimwDnH4wr9K/Wf5IJiFECrlMq4mWyEQu1XJ4w=="
                  }
 }
