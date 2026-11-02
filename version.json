@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.1",
-    "latest":  "0.3.1",
-    "tag":  "v0.3.1",
-    "notes":  "Chat fixes for phones and PC: one-line speech bubbles, keys stay in the chat box while typing.",
-    "published":  "2026-11-02T19:24:01Z",
+    "version":  "0.3.2",
+    "latest":  "0.3.2",
+    "tag":  "v0.3.2",
+    "notes":  "Fixed: your hero could not move in town after leaving an online match.",
+    "published":  "2026-11-02T21:36:24Z",
     "launcher":  {
-                     "version":  "0.3.1",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.1/win64-manifest-a0459621e5d4.json",
-                     "size":  73278,
-                     "sha256":  "a0459621e5d4e775b421ab69d41f207168c9f6c0ddc9bfa2aa8afd13a1c84ac7",
-                     "signature":  "9fJctJPz1C2CC6fUtVJUPKgUFH4JVLUoMZXX2Z8zRT5QLmgZlimwDnH4wr9K/Wf5IJiFECrlMq4mWyEQu1XJ4w=="
+                     "version":  "0.3.2",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.2/win64-manifest-7c79d299ac8a.json",
+                     "size":  73480,
+                     "sha256":  "7c79d299ac8a4c3b4b0c0813a41f780da2b2388f988e1f40018e8cb033b98526",
+                     "signature":  "ipD71c4bmu+6ZIAIpEU6nhm6KSzHiyaNY5qFFZdR6cNXZaEwzcPpruCZkg7OujpNhjUvrMXP/cBanq3o6PGG5g=="
                  }
 }
