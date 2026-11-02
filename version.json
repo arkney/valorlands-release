@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.2.5",
-    "latest":  "0.2.5",
-    "tag":  "v0.2.5",
-    "notes":  "Report players from their name menu, blocks now hide chat everywhere, login links go to the real channels",
-    "published":  "2026-11-01T18:16:25Z",
+    "version":  "0.3.0",
+    "latest":  "0.3.0",
+    "tag":  "v0.3.0",
+    "notes":  "Valorlands 0.3.0: shared town, new characters and kits, quick matches with bots, rewards and titles.",
+    "published":  "2026-11-02T17:37:09Z",
     "launcher":  {
-                     "version":  "0.2.5",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.2.5/win64-manifest-a2cdf8181df9.json",
-                     "size":  71637,
-                     "sha256":  "a2cdf8181df922865c5f8317e931f6f4c1c96321272f5f2553eee0bfbac5f10e",
-                     "signature":  "4iHwy8kG3USEdTVmrc5MXSQ0KGFpSUJIhqNkrE6Gb2P0vM0Lti8yp4n539ife176d0a2HNJnO++3dZErXbxOvQ=="
+                     "version":  "0.3.0",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.0/win64-manifest-99841c0b2097.json",
+                     "size":  73483,
+                     "sha256":  "99841c0b209749fc8cb448c31fb624978a908ce188c418f5ddc74d2f570a086a",
+                     "signature":  "sPEKwCe+EXkvB57E4bg6LF9JDi/b6N4k3BYddOeiAJbT2GaiNd7vV9epDV4H7JOp9t0rZEasAV3CHd/55te7hw=="
                  }
 }
