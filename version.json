@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.3",
-    "latest":  "0.3.3",
-    "tag":  "v0.3.3",
-    "notes":  "The game checks for updates before you sign in and downloads only what changed. Your game version now shows in the corner.",
-    "published":  "2026-11-03T06:25:08Z",
+    "version":  "0.3.4",
+    "latest":  "0.3.4",
+    "tag":  "v0.3.4",
+    "notes":  "The matchmaking card is smaller and can be folded and moved. Phones get bag and character buttons. Your first chest now comes before your first fight. Alvan now has pointed ears.",
+    "published":  "2026-11-03T13:55:49Z",
     "launcher":  {
-                     "version":  "0.3.3",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.3/win64-manifest-437b5266ec1b.json",
-                     "size":  73379,
-                     "sha256":  "437b5266ec1b227389eb1a5a50da7cf6ce7a5ab62d7c8653fa455d37a87f96d3",
-                     "signature":  "1PuN/VKntras0Hz0r0Wq+dQsE2d4YmdVFq1jZaZejbUbVjYtQonE2p/dykMiVZ1/GsmBP1n2ZdI+iVqsaiqx1Q=="
+                     "version":  "0.3.4",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.4/win64-manifest-dca300cc24d3.json",
+                     "size":  73480,
+                     "sha256":  "dca300cc24d349a2edc5b41b40a195f715784c173bc7c171fad764c955c0b435",
+                     "signature":  "D1ERbjqwB7axokMK2yRK53nrR9ZyEO0u9bnhXdTiP9oudDTmOWASAToMgr/uOFGnVhYzaEg+Lm4KoJs8ts3FJA=="
                  }
 }
