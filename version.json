@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.4",
-    "latest":  "0.3.4",
-    "tag":  "v0.3.4",
-    "notes":  "The matchmaking card is smaller and can be folded and moved. Phones get bag and character buttons. Your first chest now comes before your first fight. Alvan now has pointed ears.",
-    "published":  "2026-11-03T13:55:49Z",
+    "version":  "0.3.6",
+    "latest":  "0.3.6",
+    "tag":  "v0.3.6",
+    "notes":  "Premium pass now pays cosmetics and gems only. Cosmetics stay on your account.",
+    "published":  "2026-11-03T18:04:10Z",
     "launcher":  {
-                     "version":  "0.3.4",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.4/win64-manifest-dca300cc24d3.json",
-                     "size":  73480,
-                     "sha256":  "dca300cc24d349a2edc5b41b40a195f715784c173bc7c171fad764c955c0b435",
-                     "signature":  "D1ERbjqwB7axokMK2yRK53nrR9ZyEO0u9bnhXdTiP9oudDTmOWASAToMgr/uOFGnVhYzaEg+Lm4KoJs8ts3FJA=="
+                     "version":  "0.3.6",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.6/win64-manifest-44011250ae6a.json",
+                     "size":  73482,
+                     "sha256":  "44011250ae6aaabc307b98de3427b9a24b5fc6ec5880552d1d30b942def9d2a6",
+                     "signature":  "5nHTHCPkAfVLw17tlAo3qLoF0ouvcTKPJgniljwahGx2KOXHC+izWWwgfW0Uddz0hWMO5dyMMrnZQJqUCvvD1A=="
                  }
 }
