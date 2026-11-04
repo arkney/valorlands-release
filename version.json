@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.6",
-    "latest":  "0.3.6",
-    "tag":  "v0.3.6",
-    "notes":  "Premium pass now pays cosmetics and gems only. Cosmetics stay on your account.",
-    "published":  "2026-11-03T18:04:10Z",
+    "version":  "0.3.7",
+    "latest":  "0.3.7",
+    "tag":  "v0.3.7",
+    "notes":  "Skill board upgrades work again. Fixed matches not starting after bots filled the empty seats. The match details screen fits and closes properly. Townsfolk stay at their posts. The town has come alive with animals, birds and flowers.",
+    "published":  "2026-11-04T01:12:55Z",
     "launcher":  {
-                     "version":  "0.3.6",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.6/win64-manifest-44011250ae6a.json",
-                     "size":  73482,
-                     "sha256":  "44011250ae6aaabc307b98de3427b9a24b5fc6ec5880552d1d30b942def9d2a6",
-                     "signature":  "5nHTHCPkAfVLw17tlAo3qLoF0ouvcTKPJgniljwahGx2KOXHC+izWWwgfW0Uddz0hWMO5dyMMrnZQJqUCvvD1A=="
+                     "version":  "0.3.7",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.7/win64-manifest-b2594b20483f.json",
+                     "size":  73479,
+                     "sha256":  "b2594b20483fb1e59639bffde63ce4f70f22cd3b71e676c19d8653443990f91e",
+                     "signature":  "AXiU53pyDbF/8/ABw4vhzkpHYHSzaaRlaC+fg64NOlGwri8ULg/g4ELAaAYk8JOoaFH4IE+p5ZyqOFCKvIK0yw=="
                  }
 }
