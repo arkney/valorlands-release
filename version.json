@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.7",
-    "latest":  "0.3.7",
-    "tag":  "v0.3.7",
-    "notes":  "Skill board upgrades work again. Fixed matches not starting after bots filled the empty seats. The match details screen fits and closes properly. Townsfolk stay at their posts. The town has come alive with animals, birds and flowers.",
-    "published":  "2026-11-04T01:12:55Z",
+    "version":  "0.3.8",
+    "latest":  "0.3.8",
+    "tag":  "v0.3.8",
+    "notes":  "Behind-the-scenes update: the game now reports where new installs come from. Details are in the privacy policy.",
+    "published":  "2026-11-04T17:06:12Z",
     "launcher":  {
-                     "version":  "0.3.7",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.7/win64-manifest-b2594b20483f.json",
-                     "size":  73479,
-                     "sha256":  "b2594b20483fb1e59639bffde63ce4f70f22cd3b71e676c19d8653443990f91e",
-                     "signature":  "AXiU53pyDbF/8/ABw4vhzkpHYHSzaaRlaC+fg64NOlGwri8ULg/g4ELAaAYk8JOoaFH4IE+p5ZyqOFCKvIK0yw=="
+                     "version":  "0.3.8",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.8/win64-manifest-972b78606b66.json",
+                     "size":  73278,
+                     "sha256":  "972b78606b66ce0353d15b3e0918d8cd15c279808f82fc5b60744d1d935afb2d",
+                     "signature":  "X1LZF3vvSUSwYDbKSQCeZvlmKdxZWPxV8EZ/XQn3VN0xKFaqjKU5xhxzfTQ0vhfzFjsEPNyQVm4H8lR2j3RY1g=="
                  }
 }
