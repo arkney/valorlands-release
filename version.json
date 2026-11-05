@@ -1,15 +1,15 @@
 {
     "_comment":  "Launcher reads this on every start (docs/LAUNCHER.md). Written by tools/release.ps1.",
-    "version":  "0.3.8",
-    "latest":  "0.3.8",
-    "tag":  "v0.3.8",
-    "notes":  "Behind-the-scenes update: the game now reports where new installs come from. Details are in the privacy policy.",
-    "published":  "2026-11-04T17:06:12Z",
+    "version":  "0.3.10",
+    "latest":  "0.3.10",
+    "tag":  "v0.3.10",
+    "notes":  "New match arena: a huge ancient temple courtyard. The layout and rules are unchanged.",
+    "published":  "2026-11-05T08:56:56Z",
     "launcher":  {
-                     "version":  "0.3.8",
-                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.8/win64-manifest-972b78606b66.json",
-                     "size":  73278,
-                     "sha256":  "972b78606b66ce0353d15b3e0918d8cd15c279808f82fc5b60744d1d935afb2d",
-                     "signature":  "X1LZF3vvSUSwYDbKSQCeZvlmKdxZWPxV8EZ/XQn3VN0xKFaqjKU5xhxzfTQ0vhfzFjsEPNyQVm4H8lR2j3RY1g=="
+                     "version":  "0.3.10",
+                     "manifest":  "https://github.com/arkney/valorlands-release/releases/download/v0.3.10/win64-manifest-1dd3b3e5bf77.json",
+                     "size":  73699,
+                     "sha256":  "1dd3b3e5bf7777f31c8fcf1d484795a30e0b897fdc2a85ef4d1d7ae91ddd22e5",
+                     "signature":  "BxmxHELyk34egwZUkcpajjDsvsr8UmooBtKndRWt1Chbb2T+FDngjSy3aw+9bhBGASmuABeGJXFlTyrMslaNmA=="
                  }
 }
